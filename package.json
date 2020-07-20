@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Bolshevik35/Frontend_Practice#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
